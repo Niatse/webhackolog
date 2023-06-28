@@ -25,7 +25,8 @@ export default function IndexPageHead({ settings }: IndexPageHeadProps) {
         name="description"
         content={toPlainText(description)}
       />
-      
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4263718599763691"
+     crossOrigin="anonymous"></script>
       <meta
         property="og:image"
         // Because OG images must have a absolute URL, we use the
